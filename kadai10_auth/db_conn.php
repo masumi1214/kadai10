@@ -1,9 +1,9 @@
 <?php
 // データベース接続情報
-$db_name = 'masumi1214_gs_kadai10';     // データベース名
-$db_host = 'mysql3101.db.sakura.ne.jp'; // DBホスト
-$db_id   = 'masumi1214_gs_kadai10';     // ユーザー名
-$db_pw   = 'mieko0623';                 // パスワード
+$db_name = '';     // データベース名
+$db_host = ''; // DBホスト
+$db_id   = '';     // ユーザー名
+$db_pw   = '';                 // パスワード
 
 // データベース接続
 try {
